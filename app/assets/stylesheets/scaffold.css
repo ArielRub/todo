@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: lightblue;
   color: #333;
   margin: 33px;
 }
@@ -43,7 +43,8 @@ div.actions {
 }
 
 #notice {
-  color: green;
+  color: black;
+  background-color: #c00
 }
 
 .field_with_errors {
